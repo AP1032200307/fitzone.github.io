@@ -1,0 +1,73 @@
+.header h1{
+    font-size: 50px;
+    text-align: center;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+
+}
+.header h4{
+    font-size: 20px;
+    color:red;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    text-align: center;
+    
+}
+.right h1{font-size: 30px;
+    color: red;
+    font: bold;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    text-align: left;
+
+
+}
+
+.right h3{
+    font-size: 30px;
+    color:gray;
+    font-family: 'Baloo Bhai',cursive;
+    list-style: 40px;
+    text-emphasis: none;text-align: center;
+    text-decoration: none;
+}
+.right p{
+    color: black;
+    font-size: 25px;
+    text-align: start;
+    font: normal;
+    font-style: normal;
+    font-family:'poppins',sans-serif;
+    word-spacing: 15px;
+    line-height: 25px;
+
+}
+.right h2{
+    font-size: 40px;
+    text-align: center;
+    font: bold;
+    color:grey;
+    
+}
+.button{
+    text-align: center;
+}
+.button input[type = "submit"]{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 15px;
+    width: 100px;
+    text-align: center;
+    padding: 12px;
+    background: none;
+    border: 2px solid rgb(226, 14, 14);
+    outline: none;
+    transition: 0.25s;
+    color: rgb(0, 0, 0);
+}
+.button input[type = "submit"]:hover{
+    background-color: rgb(226, 14, 14);
+    color: white;
+}
